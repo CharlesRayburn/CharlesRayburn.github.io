@@ -4,24 +4,6 @@ This page is in respone to Charles Rayburn's need to have his own Classification
 
 ### The Library:
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<title>Rayburn Classification System</title>
-<style type="text/css">
-    li { list-style: none;  margin: 0; }
-    p { margin: 0; }
-
-    span.l { color: red; font-weight: bold; }
-
-    a.mapnode:link {text-decoration: none; color: black; }
-    a.mapnode:visited {text-decoration: none; color: black; }
-    a.mapnode:active {text-decoration: none; color: black; }
-    a.mapnode:hover {text-decoration: none; color: black; background: #eeeee0; }
-
-</style>
-<!-- ^ Position is not set to relative / absolute here because of Mozilla -->
-</head>
 <body>
 <p><span style="font-family: SansSerif, sans-serif; font-weight: bold; ">Rayburn Classification System</span>
 <ul><li><span style="font-family: SansSerif, sans-serif; font-weight: bold; ">000 - History</span>
